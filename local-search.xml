@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>CSS笔记</title>
+    <link href="/2023/02/06/CSS%E7%AC%94%E8%AE%B0/"/>
+    <url>/2023/02/06/CSS%E7%AC%94%E8%AE%B0/</url>
+    
+    <content type="html"><![CDATA[<h3 id="CSS全称-Cascading-Style-Sheets-级联样式表"><a href="#CSS全称-Cascading-Style-Sheets-级联样式表" class="headerlink" title="CSS全称 Cascading Style Sheets   级联样式表"></a>CSS全称 Cascading Style Sheets   级联样式表</h3><h3 id="css的语法可以简化为-who-how-what"><a href="#css的语法可以简化为-who-how-what" class="headerlink" title="css的语法可以简化为   who{how: what}"></a>css的语法可以简化为   who{how: what}</h3><h3 id="选择器"><a href="#选择器" class="headerlink" title="选择器"></a>选择器</h3><ul><li>class 选择器  .{}</li><li>ID 选择器 #{}</li><li>组合选择器  p.date{}  指的是所有P标签里面class&#x3D;”date”的元素</li><li>层次选择器  header a{} 指的是父亲是header的所有a标签元素</li><li>伪类选择器  a:hover{}  指的指针所指向的元素</li></ul><h3 id="CSS的继承"><a href="#CSS的继承" class="headerlink" title="CSS的继承"></a>CSS的继承</h3><h5 id="值得继承"><a href="#值得继承" class="headerlink" title="值得继承"></a>值得继承</h5><p><code>body&#123;color: grey&#125;;</code><br>所有的body的后代将会继承 color: grey的样式，我们甚至可以使用html标签</p><h5 id="能够继承的属性"><a href="#能够继承的属性" class="headerlink" title="能够继承的属性"></a>能够继承的属性</h5><p>只有一部分CSS属性能够从父亲那里继承，他们大部分是text属性；</p><ul><li>text color</li><li>font（family，size，style，weight）</li><li>line-height</li></ul><p>一些HTML元素不能继承，例如链接不能继承<code>color</code>属性</p><h3 id="CSS的优先级"><a href="#CSS的优先级" class="headerlink" title="CSS的优先级"></a>CSS的优先级</h3>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>测试文章</title>
     <link href="/2023/01/29/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <url>/2023/01/29/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
